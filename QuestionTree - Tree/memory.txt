@@ -1,0 +1,13 @@
+Q:Is your object a class at Green River?
+Q:Are you working on a "Hello World" program?
+A:CS 120
+Q:Have you worked on Linked Lists?
+A:CS 123
+A:CS 122
+Q:Is your object a starwars character?
+Q:Is your character evil?
+A:Dark Vader
+A:Jedi
+Q:Is your object a project from a CS class?
+A:The Evil Hangman Project
+A:A laptop

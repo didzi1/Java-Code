@@ -1,0 +1,19 @@
+Q:Is your object a class at Green River?
+Q:Is your object related to starwars?
+Q:Is your object a project from a CS class?
+A:A laptop
+Q:Does it use a Tree Data Structure?
+Q:Does it relate to music?
+A:The Evil Hangman Project
+A:GuitarHero project
+A:Dark Vader Question Tree Project
+Q:Is your object evil?
+A:Jedi
+A:Dark Vader
+Q:Are you working on a "Hello World" program?
+Q:Have you learned about Linked List yet?
+A:CS 122
+A:CS 123
+Q:Is your class in Java?
+A:C++ introduction class
+A:CS 120
